@@ -69,15 +69,6 @@ Options:
 Run "npm help bin" for more info
 `
 
-exports[`test/lib/load-all-commands.js TAP load each command birthday > must match snapshot 1`] = `
-Birthday, deprecated
-
-Usage:
-npm birthday
-
-Run "npm help birthday" for more info
-`
-
 exports[`test/lib/load-all-commands.js TAP load each command bugs > must match snapshot 1`] = `
 Report bugs for a package in a web browser
 

@@ -484,7 +484,6 @@ Object {
     "whoami",
   ],
   "plumbing": Array [
-    "birthday",
     "help-search",
   ],
 }
